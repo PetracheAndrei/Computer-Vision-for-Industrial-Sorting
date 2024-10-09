@@ -1,0 +1,10 @@
+path: "D:/L I C E N T A/Simulare/Scripts/YOLOv8_Model_Detection/code/data"
+train: "D:/L I C E N T A/Simulare/Scripts/YOLOv8_Model_Detection/code/data/images/train"
+val: "D:/L I C E N T A/Simulare/Scripts/YOLOv8_Model_Detection/code/data/images/val"
+
+#Class
+names:
+  0: AA
+  1: AAA
+  2: C
+  3: D
